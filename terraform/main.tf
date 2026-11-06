@@ -13,6 +13,7 @@ module "sandbox" {
   account_tags = {
     "Learn Tutorial" = "AFT"
     "Another Tag" = "TestAccount"
+    "Yet Another Tage" = "Testing SC PP"
   }
 
   change_management_parameters = {
